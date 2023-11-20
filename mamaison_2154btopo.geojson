@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mamaison_2154btopo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2154" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "BATIMENT0000000246720954", "NATURE": "Indifférenciée", "USAGE1": "Résidentiel", "USAGE2": null, "LEGER": "Non", "ETAT": "En service", "DATE_CREAT": "2011-01-06 17:17:37", "DATE_MAJ": "2019-03-15 16:43:07", "DATE_APP": "2005-01-01", "DATE_CONF": null, "SOURCE": null, "ID_SOURCE": null, "ACQU_PLANI": "BDParcellaire recalée", "PREC_PLANI": 3.0, "ACQU_ALTI": "Interpolation bâti BDTopo", "PREC_ALTI": 2.5, "NB_LOGTS": 1, "NB_ETAGES": 2, "MAT_MURS": "30", "MAT_TOITS": "10", "HAUTEUR": 5.0, "Z_MIN_SOL": 85.2, "Z_MIN_TOIT": 90.2, "Z_MAX_TOIT": 93.2, "Z_MAX_SOL": 86.0, "ORIGIN_BAT": "Cadastre", "APP_FF": "A 1.0" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 647868.5, 6828605.299999999813735, 90.2 ], [ 647876.599999999976717, 6828602.299999999813735, 90.2 ], [ 647872.800000000046566, 6828592.0, 90.2 ], [ 647864.699999999953434, 6828595.0, 90.2 ], [ 647868.5, 6828605.299999999813735, 90.2 ] ] ] ] } }
+]
+}
